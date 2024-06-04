@@ -1,0 +1,12 @@
+# Ignore node_modules directory
+node_modules/
+
+# Ignore service account key file
+serviceAccountKey.json
+
+# Ignore other operating system specific files
+.DS_Store
+Thumbs.db
+
+# Ignore environment variable files
+.env
